@@ -1,0 +1,68 @@
+.btn1{
+  background-color: white;
+}
+.frstcol{
+    gap: 100px;
+}
+.frstcol2{
+    gap: 30px;
+    background-color: #F9FAFF;
+}
+.col22{
+    width:860px;
+    position: relative;
+    right: 250px;
+    margin-top: 20px;
+    background-color: white !important;
+    
+}
+.coll{
+    background-color: white;
+}
+span{
+    background-color: white;
+}
+h1{
+    font-size: 25px ;
+    color: black;
+    background-color: white;
+
+}
+h4{
+    font-size: 15px;
+    color: black;
+    background-color: white;
+}
+p{
+    font-size: 14px;
+    color: black;
+    background-color: white;
+}
+.iii{
+display: flex;
+color: #D0E1FF;
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding: 12.5px 15px 13.5px 14px;
+justify-content: center;
+align-items: center;
+border-radius: 100px;
+background: #EDF4FF;
+margin: 20px;
+
+}
+p.iii{
+    color: #D0E1FF;
+}
+a{
+    background-color: white;
+}
+.formmm{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.153);
+    
+}
+.heddd{
+    background-color: white;
+}
